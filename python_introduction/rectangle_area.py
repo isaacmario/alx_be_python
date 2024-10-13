@@ -2,5 +2,5 @@
 length = 10
 width = 5
 
-Area = (length * width)
+Area = length * width
 print(Area)
